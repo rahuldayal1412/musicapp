@@ -31,7 +31,7 @@ o Each button’s behavior is determined by an OnClickListener in the Java code 
 
 ➣ The app contains 3 activities.
 
-o MainActivity
-o SongsInAlbumActivity
+o MainActivity<br>
+o SongsInAlbumActivity<br>
 o NowPlayingActivity
 ➣ This app only shows the structure of the app and how the app transit from one Activity to another Activity. (eg: From MainActivity to   NowPlayingActivity etc...)
