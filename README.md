@@ -1,7 +1,7 @@
 # musicapp
 PROJECT SPECIFICATION
 
-➜ The app’s structure is suitable for a music player app. A similarly structured app which focuses on audiobooks, podcasts, or other       audio media is also acceptable.
+➣ The app’s structure is suitable for a music player app. A similarly structured app which focuses on audiobooks, podcasts, or other       audio media is also acceptable.
 
 o The purpose of each activity is easy for a user to understand through the UI design and feature labeling.
 
