@@ -18,7 +18,7 @@ PROJECT SPECIFICATION
 o Text sizes are defined in sp<br>
 o Lengths are defined in dp<br>
 o Padding and margin is used appropriately, such that the views are not crammed up against each other.<br>
-o Each button’s behavior is determined by an OnClickListener in the Java code rather than by the android:onClick attribute in the XML     Layout.<br>
+o Each button’s behavior is determined by an OnClickListener in the Java code rather than by the android:onClick attribute in the XML         Layout.<br>
 ➣ Each button properly opens the intended activity using an explicit Intent.
 
 ➣ App uses a custom adapter to populate the layout with views based on instances of the custom class.
